@@ -19,3 +19,4 @@ $ npm start
 |    0    | Hello, `Nest.JS`! |
 | Basics  |                   |
 |    1    | `Basic Concepts`  |
+|    2    | `Controller`      |
