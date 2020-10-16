@@ -20,3 +20,4 @@ $ npm start
 | Basics  |                   |
 |    1    | `Basic Concepts`  |
 |    2    | `Controller`      |
+|    3    | `Providers`       |
