@@ -21,3 +21,4 @@ $ npm start
 |    1    | `Basic Concepts`  |
 |    2    | `Controller`      |
 |    3    | `Providers`       |
+|    4    | `Middleware`      |
