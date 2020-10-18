@@ -14,11 +14,12 @@
 $ npm start
 ```
 
-| chapter | name              |
-| :-----: | ----------------- |
-|    0    | Hello, `Nest.JS`! |
-| Basics  |                   |
-|    1    | `Basic Concepts`  |
-|    2    | `Controller`      |
-|    3    | `Providers`       |
-|    4    | `Middleware`      |
+| chapter | name                |
+| :-----: | ------------------- |
+|    0    | Hello, `Nest.JS`!   |
+| Basics  |                     |
+|    1    | `Basic Concepts`    |
+|    2    | `Controller`        |
+|    3    | `Providers`         |
+|    4    | `Middleware`        |
+|    5    | `Exception Filters` |
